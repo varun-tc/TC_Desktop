@@ -1,7 +1,7 @@
 {
     "_id": "94477e81-0a5d-44e8-abe0-f226363a0523",
     "name": "normal workspace env",
-    "default": true,
+    "default": false,
     "sortNum": 10000,
     "created": "2025-10-31T06:31:40.039Z",
     "modified": "2025-10-31T06:31:40.039Z",
