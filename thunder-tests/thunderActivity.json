@@ -10,5 +10,17 @@
         "created": "2025-10-31T06:31:20.690Z",
         "modified": "2025-10-31T06:31:20.690Z",
         "headers": []
+    },
+    {
+        "_id": "b0f094f2-2455-409b-92a1-59f27db24581",
+        "colId": "history",
+        "containerId": "",
+        "name": "https://www.thunderclient.com/welcome",
+        "url": "https://www.thunderclient.com/welcome",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2025-10-31T06:57:56.748Z",
+        "modified": "2025-10-31T06:57:56.748Z",
+        "headers": []
     }
 ]
