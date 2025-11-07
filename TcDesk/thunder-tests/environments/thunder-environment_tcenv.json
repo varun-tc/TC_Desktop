@@ -1,0 +1,18 @@
+{
+    "clientName": "Thunder Client",
+    "environmentName": "tcenv",
+    "environmentId": "fe5a29fe-ad2a-4964-8c41-9eccfefba852",
+    "dateExported": "2025-11-07T05:41:56.079Z",
+    "version": "1.2",
+    "variables": [
+        {
+            "name": "valu",
+            "value": "true"
+        },
+        {
+            "name": "varun",
+            "value": "false"
+        }
+    ],
+    "ref": "q9pVQnxs_R3Cr_ybPFuvJc-099QYWnCu_2IF8T8KWKrr6PwRQarG0NXJbDkMXOXB"
+}
