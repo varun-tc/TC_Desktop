@@ -1,0 +1,19 @@
+{
+    "name": "tcenv",
+    "id": "808b4912-ea17-42b2-981e-9c8aca4909e2",
+    "_postman_variable_scope": "environment",
+    "_postman_exported_at": "2025-11-07T05:47:39.942Z",
+    "_postman_exported_using": "Thunder Client",
+    "values": [
+        {
+            "key": "valu",
+            "value": "true",
+            "enabled": true
+        },
+        {
+            "key": "varun",
+            "value": "false",
+            "enabled": true
+        }
+    ]
+}
